@@ -1,7 +1,7 @@
 # Sindemia_Data_Analysis
 
 
-Este projeto foi desenvolvido a pedido de um cliente, o intuito era fudamentar quantitativamente a tese de doutorando em desenvolvimento por ele.
+Este projeto foi desenvolvido a pedido de um cliente, o intuito era fudamentar quantitativamente a tese de doutorado em desenvolvimento por ele.
 
 # Objetivo
 
