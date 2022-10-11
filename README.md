@@ -2,6 +2,7 @@
 
 
 Este projeto foi desenvolvido a pedido de um cliente, o intuito era fudamentar quantitativamente a tese de doutorado em desenvolvimento por ele.
+No final, o resultado desta análise irá compor um dos capítulos da sua tese. 
 
 # Objetivo
 
