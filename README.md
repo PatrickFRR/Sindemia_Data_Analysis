@@ -2,7 +2,7 @@
 
 
 Este projeto foi desenvolvido a pedido de um cliente, o intuito era fudamentar quantitativamente a tese de doutorado em desenvolvimento por ele.
-No final, o resultado desta análise irá compor um dos capítulos da sua tese. 
+No final, o resultado desta análise integrou um dos capítulos da sua tese. 
 
 # Objetivo
 
@@ -36,4 +36,5 @@ Esta parte envolveu a análise de conteúdo, que possibilitou:
  
  O cliente solicitou que fossem salvos os gráficos e as matrizes de correlação como uma imagem. 
  Também solicitou que fosse criado arquivos separados de cada passo do trabalho desenvolvido: limpeza dos dados, frequência das palavras, dataframes, etc.
+ Parte deste trabalho não pode ser disponibilizado por pertencer ao corpus de investigação do cliente. 
  
