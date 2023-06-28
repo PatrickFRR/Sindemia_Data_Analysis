@@ -13,6 +13,9 @@ O objetivo do projeto era fazer dois tipos de análise com base nos textos selec
 
 O projeto foi dividido em 2 partes:
 
+Foram analisados textos - de gênero textual notícia, boletim, informe e comunicado, de orgãos como: OMS, CNS, ANVISA e Senado Federal. 
+Publicados durante o período de COVID-19. 
+
 # Parte 1
 
 Esta parte envolveu a análise de conteúdo, que possibilitou:
